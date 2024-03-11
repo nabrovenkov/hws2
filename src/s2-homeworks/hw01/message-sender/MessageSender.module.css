@@ -1,12 +1,36 @@
 .sendForm {
-
+  margin: 55px 70px 32px;
+  font-family: Montserrat;
+  display: flex;
+  align-items: center;
 }
 
 .textarea {
+  display: inline-block;
+  max-width: 976px;
+  width: 100%;
+  min-height: 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: #F5F7FB;
+  resize: none;
+
+  padding-left: 24px;
+  line-height: 40px;
 
 }
 
 .button {
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #0066CC;
+  margin-left: 45px;
+
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px
 
 }
 
