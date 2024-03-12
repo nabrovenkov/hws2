@@ -1,6 +1,6 @@
 {
 	"name": "hws2",
-	"homepage": "https://nabrovenkov.github.com//hws2",
+	"homepage": "https:/nabrovenkov.github.io/hws2",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -33,7 +33,7 @@
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
-		"predeploy": "yarnyar run build",
+		"predeploy": "yarn run build",
 		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
