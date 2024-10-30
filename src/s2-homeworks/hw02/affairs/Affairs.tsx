@@ -17,13 +17,16 @@ function Affairs(props: AffairsPropsType) {
     }
     const setHigh = () => {
         props.setFilter('high');
+        props.setFilter('high');
         // need to fix
     }
     const setMiddle = () => {
         props.setFilter('middle');
+        props.setFilter('middle');
         // need to fix
     }
     const setLow = () => {
+        props.setFilter('low');
         props.setFilter('low');
         // need to fix
     }
